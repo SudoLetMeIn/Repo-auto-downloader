@@ -54,7 +54,7 @@ if "%choice%"=="1" (
     start https://github.com/SudoLetMeIn/Cashier-App/archive/refs/heads/main.zip
     pause
     goto menu
-) else if "%choice%"=="9" (
+) else if "%choice%"=="10" (
     start https://github.com/SudoLetMeIn/Cashier-App.git
     pause
     goto menu

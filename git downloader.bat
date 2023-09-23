@@ -29,11 +29,11 @@ if "%choice%"=="1" (
     start https://github.com/SudoLetMeIn/Sudoku-creator/archive/refs/heads/main.zip
     pause
     goto menu
-) else if "%choice%"=="4" (
-    start 
+) else if "%choice%"=="5" (
+    start https://github.com/SudoLetMeIn/Cashier-App/archive/refs/heads/main.zip
     pause
     goto menu
-) else (
+)  else (
     echo bye
     pause
     goto menu
